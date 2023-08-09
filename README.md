@@ -1,7 +1,5 @@
 # Sales Insights Dashboard with Looker
 
-## Overview
-
 Welcome to the Sales Insights Dashboard repository! This repository houses an analysis of orders, sales, customer data, and IDs, along with the implementation of a comprehensive dashboard using Looker.
 
 ## Overview
