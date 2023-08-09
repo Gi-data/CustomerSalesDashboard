@@ -2,7 +2,7 @@
 
 Welcome to the Sales Insights Dashboard repository! This repository houses an analysis of orders, sales, customer data, and IDs, along with the implementation of a comprehensive dashboard using Looker.
 
-## Overview
+## Overview 
 
 In this repository, we delve into the intricacies of sales data, order trends, and customer behavior. The analysis is centered around understanding the relationships between orders, sales performance, and customer segments. With the integration of Looker, we've created a dynamic dashboard that provides visual insights into these key metrics.
 
